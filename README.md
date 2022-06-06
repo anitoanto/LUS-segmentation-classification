@@ -16,6 +16,9 @@ python -m venv lus-env
 ```
 pip install -r requirements.txt
 ```
+```
+cd LUS-segmentation-classification
+```
 
 ```
 python main.py
